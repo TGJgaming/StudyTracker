@@ -1,0 +1,15 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / build caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local editor settings
+.vscode/
+.idea/
+*.swp
